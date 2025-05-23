@@ -8,8 +8,10 @@
   Perform appropriate data lookups and respond with correct answers.
 
 ## Data Agent Responsibilites
-```markdown
-  -> Able to upload the csv data.
-  -> and it must get the analysis out of it.
-```
+    -> Able to upload the csv data.
+    -> and it must get the analysis out of it.
+
+## Tech Stack
+   Frontend - streamlit \n
+   Backend (Routes integration) - Flask \n
   
