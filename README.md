@@ -18,6 +18,7 @@
      Output - Text answer based on CSV data.
      Api Providers - Groq
      llm used - llama3-8b-8192
+     api testing - thunderclient
 
 ## Approach
     - The backend will have two routes `upload` and `query`
