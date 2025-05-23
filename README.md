@@ -20,5 +20,8 @@
      llm used - llama3-8b-8192
 
 ## Approach
-    - The backend will have two queries `upload` and `query`
+    - The backend will have two routes `upload` and `query`
+      `upload` - the upload routes will get the csv file path and it will put it into the dataframe variable at the RAM level for the quick usage
+      `query` - the query route will get the question or the query from the user and based on the system prompt it will follows the task and provide response.
+            the query response will load the dataframe into the context and the question along side then it provide the response
   
