@@ -8,6 +8,6 @@
   Perform appropriate data lookups and respond with correct answers.
 
 ## Data Agent Responsibilites
-    -> Able to upload the csv data.
-    -> and it must get the analysis out of it.
+    - Able to upload the csv data.
+    - and it must get the analysis out of it.
   
