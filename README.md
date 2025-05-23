@@ -11,7 +11,14 @@
     -> Able to upload the csv data.
     -> and it must get the analysis out of it.
 
-## Tech Stack
-   Frontend - streamlit \n
-   Backend (Routes integration) - Flask \n
+## Technical Requirements 
+     Frontend - streamlit 
+     Backend (Routes integration) - Flask 
+     Input - Natural language query.
+     Output - Text answer based on CSV data.
+     Api Providers - Groq
+     llm used - llama3-8b-8192
+
+## Approach
+    - The backend will have two queries `upload` and `query`
   
