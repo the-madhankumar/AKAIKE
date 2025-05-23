@@ -6,3 +6,8 @@
   Parse the CSV file.
   Understand simple user queries in natural language.
   Perform appropriate data lookups and respond with correct answers.
+
+## Data Agent Responsibilites
+    -> Able to upload the csv data.
+    -> and it must get the analysis out of it.
+  
