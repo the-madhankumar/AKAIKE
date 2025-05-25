@@ -9,7 +9,7 @@ CORS(app)
 
 df = None
 
-groq_api_key = "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" 
+groq_api_key = "GROQ_API_KEY" 
 client = Groq(api_key=groq_api_key)
 
 @app.route('/upload', methods=['POST'])
